@@ -1,0 +1,20 @@
+{
+  "name": "urok2",
+  "version": "1.0.0",
+  "description": "this is simple expres server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "server",
+    "beckend"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
